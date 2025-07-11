@@ -16,6 +16,8 @@ Este repositório contém exercícios de programação focados em problemas reai
 
 - Clone o repositório, abra os arquivos na sua IDE de preferência (Eclipse, IntelliJ, VS Code) e execute os códigos para testar.
 
+## 🧑‍💻 Como participar?
+
 - Crie uma branch com seu nome e coloque a numeração do exercício resolvido
 
 ---
